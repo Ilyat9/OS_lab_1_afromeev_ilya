@@ -6,3 +6,10 @@
 
 <img width="766" height="369" alt="image" src="https://github.com/user-attachments/assets/5fae3323-caba-4978-8d1c-7bedf4fa82ff" />
 <img width="591" height="526" alt="image" src="https://github.com/user-attachments/assets/84052424-0224-48ae-a85c-75dd15ac2c89" />
+
+
+Сборка: введите в терминале команду make. Появится файл os_lab_1.
+
+Запуск: введите make run. Программа соберется и тут же запустится.
+
+Очистка: введите make clean, чтобы удалить объектные файлы и исполняемый файл (полезно перед пушем в репозиторий).
